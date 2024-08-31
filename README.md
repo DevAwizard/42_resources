@@ -71,7 +71,7 @@ If you're new to coding, the most important first step is to develop a logical a
 - **[Scratch from CS50](https://www.youtube.com/watch?v=3LPJfIKxwWc&list=PLhQjrBD2T381WAHyx1pq-sBfykqMBI7V4&index=1)**: A great introduction to programming logic using Scratch, part of Harvard's CS50 course. Ideal for beginners to start thinking like a programmer with visual, block-based coding.
 
 
-**C language**
+#### C language
 
 Since you’ll start with the C language, the following resources will be invaluable as you progress through your projects:
 - **[Learn-C.org: Interactive C Tutorial](http://www.learn-c.org/)**
@@ -80,6 +80,24 @@ Since you’ll start with the C language, the following resources will be invalu
 - **[GeeksforGeeks: C Programming Language](https://www.geeksforgeeks.org/c-programming-language/)**
 
 - **[CS50 YouTube Playlist](https://www.youtube.com/playlist?list=PLhQjrBD2T381WAHyx1pq-sBfykqMBI7V4)**
+
+
+Certainly! Here’s the updated table with the Spanish-language YouTube channels grouped together:
+
+---
+
+### 📺 YouTube Channels to Follow
+
+| Channel | Description |
+|---------|-------------|
+| [CodeVault](https://www.youtube.com/c/CodeVault) | A channel focused on explaining advanced programming concepts and algorithms, especially useful for C and C++ learners. |
+| [freeCodeCamp](https://www.youtube.com/@freecodecamp) | Offers a wide range of tutorials on programming, web development, and more, perfect for learners of all levels. |
+| [Learn Coding](https://www.youtube.com/@LearnCodingOfficial) | Provides clear and concise tutorials on programming, focusing on beginner-friendly content across multiple languages. |
+| [BroCode](https://www.youtube.com/@BroCodez) | Offers practical coding tutorials with a fun and engaging teaching style, covering multiple programming languages. |
+| [makigas](https://www.youtube.com/@makigas) | A great resource for **Spanish speakers**, covering a variety of programming topics, including web development and software engineering. |
+| [mouredev](https://www.youtube.com/@mouredev) | An excellent channel for **Spanish speakers**, focusing on mobile app development, especially using Flutter and Swift. |
+| [midulive](https://www.youtube.com/@midulive) | A popular channel in the **Spanish-speaking community**, offering live coding sessions and in-depth programming tutorials. |
+
 
 **Header files**
 
