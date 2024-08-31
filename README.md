@@ -43,10 +43,6 @@ As a **42 student**, you can access the GitHub Student Developer Pack, which inc
    Once verified, you’ll have access to GitHub Pro features such as **private repositories, advanced collaboration tools, and more**.
 
 
-
-Sure! Here’s how you can present the recommended tools with the links placed next to the tool names in a table format:
-
-
 #### 👀Recommended Tools
 
 
@@ -81,10 +77,6 @@ Since you’ll start with the C language, the following resources will be invalu
 
 - **[CS50 YouTube Playlist](https://www.youtube.com/playlist?list=PLhQjrBD2T381WAHyx1pq-sBfykqMBI7V4)**
 
-
-Certainly! Here’s the updated table with the Spanish-language YouTube channels grouped together:
-
----
 
 ### 📺 YouTube Channels to Follow
 
