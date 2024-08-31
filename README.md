@@ -1,15 +1,66 @@
-# 42 Resources Repository
+# 🎓 42 Resources Repository
 
-Welcome to the **42 Resources** repository! This is the repository I wish I could have found when I first started learning to code, especially with C as my first programming language at 42 School.
-
-### Purpose
-
-This repository is designed to be a comprehensive collection of resources, tools, and guides to help you navigate the challenges of learning C and other essential programming concepts as part of the 42 curriculum. Whether you’re a beginner or someone looking to deepen your understanding, you’ll find materials here that will support your learning journey.
+Welcome to the **42 Resources** repository! This is the collection of resources I wish I had when I first started learning to code, especially with **C** as my first programming language at **42 School**.
 
 
-### For complete beginners
 
-If you’re new to coding, the most important first step is to develop a logical approach. This foundation will make learning any programming language much easier.
+### 🎯 Purpose
+
+When I first started at 42 School, I was a complete beginner and often struggled to find the right resources to help me understand **C** and the foundational programming concepts. This repository is a collection of all the resources I wish I could have found when I started. It’s designed to guide you through the same journey, offering the support and insights I gained along the way.
+
+
+
+### 🚀 Getting Started
+
+#### 💻 Setting Up Your Workspace Environment
+
+**Why is it Important to Create a GitHub Account?**
+
+Creating a GitHub account is a crucial step in your journey as a programmer, particularly at **42 School**. Here’s why:
+
+- **Version Control**: GitHub is the most widely used platform for version control, essential for managing your code, tracking changes, and collaborating with others. Learning how to use GitHub will make it easier to work on projects, both individually and in teams.
+
+- **Collaboration**: Many projects at 42 involve collaboration with other students. GitHub allows multiple people to work on the same project simultaneously, making it easier to merge contributions, review code, and resolve conflicts.
+
+- **Portfolio Building**: Your GitHub profile becomes a public portfolio showcasing your work. Future employers or collaborators can see the projects you’ve worked on, your coding style, and your problem-solving skills.
+
+- **Access to Resources**: By using GitHub, you can easily access and contribute to open-source projects, a valuable learning experience. It also opens up opportunities to collaborate with a global community of developers.
+
+- **Student Benefits**: Since you’re part of 42 School, you can access the **GitHub Student Developer Pack**, which includes a free GitHub Pro account and various other tools and resources to help you in your learning journey.
+
+##### 🎒 How to Get Your GitHub Pro Account
+
+As a **42 student**, you can access the GitHub Student Developer Pack, which includes a free GitHub Pro account with additional features beneficial for your projects and learning. To get started, follow these steps:
+
+1. **Visit the 42 GitHub Portal**:  
+   Go to the following link to verify your student status and get access to the GitHub Pro account:
+   - 🔗 [42 GitHub Portal](https://github-portal.42.fr/login)
+
+3. **Sign In with Your 42 Account**:  
+   Use your 42 School credentials to log in and connect to GitHub.
+
+4. **Enjoy the Benefits**:  
+   Once verified, you’ll have access to GitHub Pro features such as **private repositories, advanced collaboration tools, and more**.
+
+
+
+Sure! Here’s how you can present the recommended tools with the links placed next to the tool names in a table format:
+
+
+#### 👀Recommended Tools
+
+
+| Tool | Description |
+|------|-------------|
+| [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) | A delightful & open-source framework for managing your Zsh configuration. It enhances your terminal experience with themes, plugins, and much more. |
+| [Cleaner_42](https://github.com/ombhd/Cleaner_42) | A handy script to clean up and optimize your 42 workspace by removing unnecessary files and organizing your directories. |
+| [42 Header](https://github.com/42Paris/42header) | A script that automatically adds the 42 header to your files, ensuring compliance with the school’s coding standards. |
+| [Norminette](https://github.com/42School/norminette) | A code linter to ensure your code follows the 42 School's coding standards. |
+| [42 Homebrew](https://github.com/kube/42homebrew) | A Homebrew tap for the 42 curriculum, making it easy to install the required packages and dependencies for your projects. |
+| [Norminette V2](https://github.com/42Paris/norminette-v2) | The second version of the Norminette, offering enhanced functionality for code compliance checks. |
+| [Valgrind 42](https://github.com/grouville/valgrind_42) | A version of Valgrind tailored for 42 School, used for memory leak detection and debugging. |
+| [gdbgui](https://github.com/cs01/gdbgui/) | A browser-based frontend for GDB (GNU Debugger), making it easier to debug your programs visually. |
+
 
 ### For Complete Beginners
 
@@ -20,40 +71,26 @@ If you're new to coding, the most important first step is to develop a logical a
 - **[Scratch from CS50](https://www.youtube.com/watch?v=3LPJfIKxwWc&list=PLhQjrBD2T381WAHyx1pq-sBfykqMBI7V4&index=1)**: A great introduction to programming logic using Scratch, part of Harvard's CS50 course. Ideal for beginners to start thinking like a programmer with visual, block-based coding.
 
 
-
-- **[CS50 YouTube Playlist](https://www.youtube.com/playlist?list=PLhQjrBD2T381WAHyx1pq-sBfykqMBI7V4)**: Harvard's renowned introduction to computer science, covering programming, algorithms, and more, designed for complete beginners.
-
 **C language**
 
 Since you’ll start with the C language, the following resources will be invaluable as you progress through your projects:
-
 - **[Learn-C.org: Interactive C Tutorial](http://www.learn-c.org/)**
 - **[The C Programming Language by Brian W. Kernighan and Dennis M. Ritchie](https://en.wikipedia.org/wiki/The_C_Programming_Language)**
 - **[TutorialsPoint: C Programming Tutorial](https://www.tutorialspoint.com/cprogramming/index.htm)**
 - **[GeeksforGeeks: C Programming Language](https://www.geeksforgeeks.org/c-programming-language/)**
 
 - **[CS50 YouTube Playlist](https://www.youtube.com/playlist?list=PLhQjrBD2T381WAHyx1pq-sBfykqMBI7V4)**
-https://github.com/gorkau/Libro-Programacion-en-C
 
 **Header files**
 
 - **[Header Files in C](https://medium.com/@prem112/header-files-in-c-e306e685c148)**
   
-
-
 **Makefile**
 
 - **[Makefile Tutor](https://github.com/clemedon/Makefile_tutor)**
 
 
 
-
-### Set Up Your Laptop
-
-- **[Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)**
-- **[42 Homebrew](https://github.com/kube/42homebrew)**
-- **[Cleaner_42](https://github.com/ombhd/Cleaner_42)**
-- **[42 Header](https://github.com/42Paris/42header)**
 
 
 
