@@ -48,22 +48,26 @@ https://github.com/gorkau/Libro-Programacion-en-C
 
 
 
-Set up your laptop
+### Set Up Your Laptop
 
-https://github.com/ohmyzsh/ohmyzsh
-https://github.com/kube/42homebrew
+- **[Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)**
+- **[42 Homebrew](https://github.com/kube/42homebrew)**
+- **[Cleaner_42](https://github.com/ombhd/Cleaner_42)**
+- **[42 Header](https://github.com/42Paris/42header)**
 
 
 
-### List of useful resources
+### List of Useful Resources
 
-https://github.com/EbookFoundation/free-programming-books
-https://github.com/mtdvio/every-programmer-should-know
-https://github.com/DevCaress/guia-entrevistas-de-programacion
-https://github.com/sdmg15/Best-websites-a-programmer-should-visit
-https://github.com/ronreiter/interactive-tutorials
-https://github.com/freeCodeCamp/freeCodeCamp
-https://github.com/jwasham/coding-interview-university
+- **[Free Programming Books](https://github.com/EbookFoundation/free-programming-books)**
+- **[Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)**
+- **[Guía Entrevistas de Programación](https://github.com/DevCaress/guia-entrevistas-de-programacion)**
+- **[Best Websites a Programmer Should Visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)**
+- **[Interactive Tutorials](https://github.com/ronreiter/interactive-tutorials)**
+- **[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)**
+- **[Coding Interview University](https://github.com/jwasham/coding-interview-university)**
+
+
 
 
 
