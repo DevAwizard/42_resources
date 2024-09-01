@@ -45,7 +45,6 @@ As a **42 student**, you can access the GitHub Student Developer Pack, which inc
 
 #### 👀Recommended Tools
 
-
 | Tool | Description |
 |------|-------------|
 | [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) | A delightful & open-source framework for managing your Zsh configuration. It enhances your terminal experience with themes, plugins, and much more. |
@@ -56,6 +55,44 @@ As a **42 student**, you can access the GitHub Student Developer Pack, which inc
 | [Norminette V2](https://github.com/42Paris/norminette-v2) | The second version of the Norminette, offering enhanced functionality for code compliance checks. |
 | [Valgrind 42](https://github.com/grouville/valgrind_42) | A version of Valgrind tailored for 42 School, used for memory leak detection and debugging. |
 | [gdbgui](https://github.com/cs01/gdbgui/) | A browser-based frontend for GDB (GNU Debugger), making it easier to debug your programs visually. |
+
+#### Recommended Visual Studio Code Extensions
+
+**For 42 Projects**
+
+| **Extension Name**           | **Author**  |
+|------------------------------|-------------|
+| 42 Header                    | kube        |
+| 42 Norminette                | DalexHD     |
+| 42 ft count line             | doKca       |
+
+**C/C++ Development**
+
+| **Extension Name**           | **Author**  |
+|------------------------------|-------------|
+| C/C++                        | Microsoft   |
+| C/C++ Themes                 | Microsoft   |
+| C/C++ Extension Pack         | Microsoft   |
+
+**Code Formatting & Display**
+
+| **Extension Name**           | **Author**      |
+|------------------------------|-----------------|
+| Indent Rainbow               | oderwat         |
+| Makefile Tools               | Microsoft       |
+| Fluent Icons                 | Miguel Solorio  |
+
+**Enhanced Commenting**
+
+| **Extension Name**           | **Author**  |
+|------------------------------|-------------|
+| Better Comments              | Aaron Bond  |
+
+**Markdown Support**
+
+| **Extension Name**           | **Author**  |
+|------------------------------|-------------|
+| Markdown TOC                 | AlanWalk    |
 
 
 ### For Complete Beginners
