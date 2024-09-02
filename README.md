@@ -137,8 +137,35 @@ Since you’ll start with the C language, the following resources will be invalu
 - **[Makefile Tutor](https://github.com/clemedon/Makefile_tutor)**
 
 
+### Final Checklist Before Submitting Your 42 Project
 
+### Brief Explanation:
+Before submitting your project at 42, it's crucial to ensure that all aspects of your work meet the required standards. This checklist will help you verify that your project is ready for submission by covering key areas such as code quality, file management, and expected outputs.
 
+### Checklist:
+
+1. **Norminette Compliance**
+   - Ensure your code passes the Norminette checks. Run `norminette` on all source and header files to confirm there are no style violations.
+
+2. **No Hidden Files**
+   - Remove any hidden files or directories like `.DS_Store`, `a.out`, `.vscode`, or any others that are not permitted. These should not be included in your submission.
+
+3. **Memory Leaks**
+   - Use tools like `valgrind` to check for memory leaks. Your program should not have any memory leaks unless explicitly permitted by the project guidelines.
+
+4. **No Global Variables**
+   - Verify that no global variables are used in your project unless explicitly allowed by the project's requirements.
+
+5. **Expected Output**
+   - Test your program thoroughly to ensure it produces the expected output for all required cases, including edge cases.
+
+6. **Makefile**
+   - Confirm that your Makefile is correctly implemented with all necessary rules (`all`, `clean`, `fclean`, `re`, etc.). It should compile your program without errors or warnings.
+
+7. **Header File**
+   - Check that your header file(s) are complete and correctly structured, with all function prototypes, macros, and necessary includes.
+
+By following this checklist, you can be confident that your project is in line with the expectations and standards of 42, increasing your chances of a successful submission.
 
 
 ### List of Useful Resources
