@@ -3,7 +3,7 @@
 Welcome to the **42 Resources** repository! This is the collection of resources I wish I had when I first started learning to code, especially with **C** as my first programming language at **42 School**.
 
 
-## 📑 Table of Contents
+### 📑 Table of Contents
 
 1. [🎯 Purpose](#-purpose)
 2. [🚀 Getting Started](#-getting-started)
@@ -19,16 +19,16 @@ Welcome to the **42 Resources** repository! This is the collection of resources 
 10. [🌐 Useful Resources](#-useful-resources)
 
 
-## 🎯 Purpose
+### 🎯 Purpose
 
 When I started at 42 School, I was a complete beginner and struggled to find the right resources to understand **C** and foundational programming concepts. This repository is designed to guide you through the same journey, offering the support and insights I gained along the way.
 
 
-## 🚀 Getting Started
+### 🚀 Getting Started
 
-### 💻 Setting Up Your Workspace Environment
+#### 💻 Setting Up Your Workspace Environment
 
-#### **Why is it Important to Create a GitHub Account?**
+##### **Why is it Important to Create a GitHub Account?**
 
 Creating a GitHub account is essential in your journey as a programmer, particularly at **42 School**. Here’s why:
 
@@ -49,7 +49,7 @@ As a **42 student**, you can access the GitHub Student Developer Pack with addit
 3. **Enjoy the Benefits**:  
    Access features such as **private repositories, advanced collaboration tools, and more**.
 
-### **🤝 Peer Collaboration**
+#### **🤝 Peer Collaboration**
 
 **Struggling to find peers to work on projects or collaborate with?**  
 Use the **Find Peers** tool to connect with other students at 42 School:
@@ -58,7 +58,7 @@ Use the **Find Peers** tool to connect with other students at 42 School:
 
 
 
-## 👀 Recommended Tools
+### 👀 Recommended Tools
 
 | Tool | Description |
 |------|-------------|
@@ -71,9 +71,9 @@ Use the **Find Peers** tool to connect with other students at 42 School:
 | [gdbgui](https://github.com/cs01/gdbgui/) | Browser-based GUI for debugging your programs with GDB. |
 
 
-## 🖥️ Recommended Visual Studio Code Extensions
+### 🖥️ Recommended Visual Studio Code Extensions
 
-### **For 42 Projects**
+**For 42 Projects**
 
 | **Extension Name**           | **Author**  |
 |------------------------------|-------------|
@@ -81,7 +81,7 @@ Use the **Find Peers** tool to connect with other students at 42 School:
 | 42 Norminette                | DalexHD     |
 | 42 ft count line             | doKca       |
 
-### **C/C++ Development**
+**C/C++ Development**
 
 | **Extension Name**           | **Author**  |
 |------------------------------|-------------|
@@ -89,7 +89,7 @@ Use the **Find Peers** tool to connect with other students at 42 School:
 | C/C++ Themes                 | Microsoft   |
 | C/C++ Extension Pack         | Microsoft   |
 
-### **Code Formatting & Display**
+**Code Formatting & Display**
 
 | **Extension Name**           | **Author**      |
 |------------------------------|-----------------|
@@ -97,20 +97,20 @@ Use the **Find Peers** tool to connect with other students at 42 School:
 | Makefile Tools               | Microsoft       |
 | Fluent Icons                 | Miguel Solorio  |
 
-### **Enhanced Commenting**
+**Enhanced Commenting**
 
 | **Extension Name**           | **Author**  |
 |------------------------------|-------------|
 | Better Comments              | Aaron Bond  |
 
-### **Markdown Support**
+**Markdown Support**
 
 | **Extension Name**           | **Author**  |
 |------------------------------|-------------|
 | Markdown TOC                 | AlanWalk    |
 
 
-## 🎓 For Complete Beginners
+### 🎓 For Complete Beginners
 
 If you're new to coding, your first step is to develop a logical approach. Here are some great beginner resources:
 
@@ -119,7 +119,7 @@ If you're new to coding, your first step is to develop a logical approach. Here 
 
 
 
-## 🔧 C Language Resources
+### 🔧 C Language Resources
 
 Since you’ll start with the C language, the following resources will be invaluable:
 
@@ -130,7 +130,7 @@ Since you’ll start with the C language, the following resources will be invalu
 - **[CS50 YouTube Playlist](https://www.youtube.com/playlist?list=PLhQjrBD2T381WAHyx1pq-sBfykqMBI7V4)**
 
 
-## 📺 YouTube Channels to Follow
+### 📺 YouTube Channels to Follow
 
 | Channel | Description |
 |---------|-------------|
@@ -142,18 +142,16 @@ Since you’ll start with the C language, the following resources will be invalu
 | [midulive](https://www.youtube.com/@midulive) | **Spanish-speaking** community with live coding sessions. |
 
 
-
-## 🛠️ Useful Project Links
+### 🛠️ Useful Project Links
 
 | Resource | Description |
 |----------|-------------|
-| [Find Peers](https://find-peers.codam.nl/) | Struggling to find peers? Use this link to connect with others. |
 | [Header Files in C](https://medium.com/@prem112/header-files-in-c-e306e685c148) | Explanation of header files in C. |
 | [Makefile Tutor](https://github.com/clemedon/Makefile_tutor) | A comprehensive guide to Makefiles. |
 
 
 
-## ✅ Final Checklist Before Submitting Your 42 Project
+### ✅ Final Checklist Before Submitting Your 42 Project
 
 Before submitting your project at 42, it's crucial to ensure all aspects meet the required standards. Here's a checklist:
 
@@ -179,7 +177,7 @@ Before submitting your project at 42, it's crucial to ensure all aspects meet th
    Check your header file for correct function prototypes, macros, and includes.
 
 
-## 🌐 Useful Resources
+### 🌐 Useful Resources
 
 - **[Free Programming Books](https://github.com/EbookFoundation/free-programming-books)**  
 - **[Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)**  
