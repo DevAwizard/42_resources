@@ -3,62 +3,77 @@
 Welcome to the **42 Resources** repository! This is the collection of resources I wish I had when I first started learning to code, especially with **C** as my first programming language at **42 School**.
 
 
+## 📑 Table of Contents
 
-### 🎯 Purpose
+1. [🎯 Purpose](#-purpose)
+2. [🚀 Getting Started](#-getting-started)
+   - [💻 Setting Up Your Workspace Environment](#-setting-up-your-workspace-environment)
+   - [🤝 Peer Collaboration](#-peer-collaboration)
+3. [👀 Recommended Tools](#-recommended-tools)
+4. [🖥️ Recommended Visual Studio Code Extensions](#-recommended-visual-studio-code-extensions)
+5. [🎓 For Complete Beginners](#-for-complete-beginners)
+6. [🔧 C Language Resources](#-c-language-resources)
+7. [📺 YouTube Channels to Follow](#-youtube-channels-to-follow)
+8. [🛠️ Useful Project Links](#️-useful-project-links)
+9. [✅ Final Checklist Before Submitting Your 42 Project](#-final-checklist-before-submitting-your-42-project)
+10. [🌐 Useful Resources](#-useful-resources)
 
-When I first started at 42 School, I was a complete beginner and often struggled to find the right resources to help me understand **C** and the foundational programming concepts. This repository is a collection of all the resources I wish I could have found when I started. It’s designed to guide you through the same journey, offering the support and insights I gained along the way.
+
+## 🎯 Purpose
+
+When I started at 42 School, I was a complete beginner and struggled to find the right resources to understand **C** and foundational programming concepts. This repository is designed to guide you through the same journey, offering the support and insights I gained along the way.
 
 
+## 🚀 Getting Started
 
-### 🚀 Getting Started
+### 💻 Setting Up Your Workspace Environment
 
-#### 💻 Setting Up Your Workspace Environment
+#### **Why is it Important to Create a GitHub Account?**
 
-**Why is it Important to Create a GitHub Account?**
+Creating a GitHub account is essential in your journey as a programmer, particularly at **42 School**. Here’s why:
 
-Creating a GitHub account is a crucial step in your journey as a programmer, particularly at **42 School**. Here’s why:
+- **Version Control**: Manage your code, track changes, and collaborate.
+- **Collaboration**: Work on projects with peers and merge contributions.
+- **Portfolio Building**: Showcase your projects and coding skills to future employers.
+- **Access to Resources**: Contribute to open-source projects and collaborate with a global community.
+- **Student Benefits**: Access the **GitHub Student Developer Pack**, including GitHub Pro and other tools.
 
-- **Version Control**: GitHub is the most widely used platform for version control, essential for managing your code, tracking changes, and collaborating with others. Learning how to use GitHub will make it easier to work on projects, both individually and in teams.
+##### 🎒 **How to Get Your GitHub Pro Account**
 
-- **Collaboration**: Many projects at 42 involve collaboration with other students. GitHub allows multiple people to work on the same project simultaneously, making it easier to merge contributions, review code, and resolve conflicts.
-
-- **Portfolio Building**: Your GitHub profile becomes a public portfolio showcasing your work. Future employers or collaborators can see the projects you’ve worked on, your coding style, and your problem-solving skills.
-
-- **Access to Resources**: By using GitHub, you can easily access and contribute to open-source projects, a valuable learning experience. It also opens up opportunities to collaborate with a global community of developers.
-
-- **Student Benefits**: Since you’re part of 42 School, you can access the **GitHub Student Developer Pack**, which includes a free GitHub Pro account and various other tools and resources to help you in your learning journey.
-
-##### 🎒 How to Get Your GitHub Pro Account
-
-As a **42 student**, you can access the GitHub Student Developer Pack, which includes a free GitHub Pro account with additional features beneficial for your projects and learning. To get started, follow these steps:
+As a **42 student**, you can access the GitHub Student Developer Pack with additional features. Follow these steps:
 
 1. **Visit the 42 GitHub Portal**:  
-   Go to the following link to verify your student status and get access to the GitHub Pro account:
-   - 🔗 [42 GitHub Portal](https://github-portal.42.fr/login)
+   🔗 [42 GitHub Portal](https://github-portal.42.fr/login)
+2. **Sign In with Your 42 Account**:  
+   Log in using your 42 School credentials.
+3. **Enjoy the Benefits**:  
+   Access features such as **private repositories, advanced collaboration tools, and more**.
 
-3. **Sign In with Your 42 Account**:  
-   Use your 42 School credentials to log in and connect to GitHub.
+### **🤝 Peer Collaboration**
 
-4. **Enjoy the Benefits**:  
-   Once verified, you’ll have access to GitHub Pro features such as **private repositories, advanced collaboration tools, and more**.
+**Struggling to find peers to work on projects or collaborate with?**  
+Use the **Find Peers** tool to connect with other students at 42 School:
+
+🔗 [Find Peers](https://find-peers.codam.nl/)
 
 
-#### 👀Recommended Tools
+
+## 👀 Recommended Tools
 
 | Tool | Description |
 |------|-------------|
-| [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) | A delightful & open-source framework for managing your Zsh configuration. It enhances your terminal experience with themes, plugins, and much more. |
-| [Cleaner_42](https://github.com/ombhd/Cleaner_42) | A handy script to clean up and optimize your 42 workspace by removing unnecessary files and organizing your directories. |
-| [42 Header](https://github.com/42Paris/42header) | A script that automatically adds the 42 header to your files, ensuring compliance with the school’s coding standards. |
-| [Norminette](https://github.com/42School/norminette) | A code linter to ensure your code follows the 42 School's coding standards. |
-| [42 Homebrew](https://github.com/kube/42homebrew) | A Homebrew tap for the 42 curriculum, making it easy to install the required packages and dependencies for your projects. |
-| [Norminette V2](https://github.com/42Paris/norminette-v2) | The second version of the Norminette, offering enhanced functionality for code compliance checks. |
-| [Valgrind 42](https://github.com/grouville/valgrind_42) | A version of Valgrind tailored for 42 School, used for memory leak detection and debugging. |
-| [gdbgui](https://github.com/cs01/gdbgui/) | A browser-based frontend for GDB (GNU Debugger), making it easier to debug your programs visually. |
+| [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) | Framework for managing your Zsh configuration with themes and plugins. |
+| [Cleaner_42](https://github.com/ombhd/Cleaner_42) | Script to clean and optimize your 42 workspace by removing unnecessary files. |
+| [42 Header](https://github.com/42Paris/42header) | Automatically adds the 42 header to your files for code compliance. |
+| [Norminette](https://github.com/42School/norminette) | Linter to ensure your code follows the 42 School's coding standards. |
+| [42 Homebrew](https://github.com/kube/42homebrew) | Homebrew tap for installing required packages and dependencies. |
+| [Valgrind 42](https://github.com/grouville/valgrind_42) | Memory leak detection tool tailored for 42 School. |
+| [gdbgui](https://github.com/cs01/gdbgui/) | Browser-based GUI for debugging your programs with GDB. |
 
-#### Recommended Visual Studio Code Extensions
 
-**For 42 Projects**
+## 🖥️ Recommended Visual Studio Code Extensions
+
+### **For 42 Projects**
 
 | **Extension Name**           | **Author**  |
 |------------------------------|-------------|
@@ -66,7 +81,7 @@ As a **42 student**, you can access the GitHub Student Developer Pack, which inc
 | 42 Norminette                | DalexHD     |
 | 42 ft count line             | doKca       |
 
-**C/C++ Development**
+### **C/C++ Development**
 
 | **Extension Name**           | **Author**  |
 |------------------------------|-------------|
@@ -74,7 +89,7 @@ As a **42 student**, you can access the GitHub Student Developer Pack, which inc
 | C/C++ Themes                 | Microsoft   |
 | C/C++ Extension Pack         | Microsoft   |
 
-**Code Formatting & Display**
+### **Code Formatting & Display**
 
 | **Extension Name**           | **Author**      |
 |------------------------------|-----------------|
@@ -82,108 +97,96 @@ As a **42 student**, you can access the GitHub Student Developer Pack, which inc
 | Makefile Tools               | Microsoft       |
 | Fluent Icons                 | Miguel Solorio  |
 
-**Enhanced Commenting**
+### **Enhanced Commenting**
 
 | **Extension Name**           | **Author**  |
 |------------------------------|-------------|
 | Better Comments              | Aaron Bond  |
 
-**Markdown Support**
+### **Markdown Support**
 
 | **Extension Name**           | **Author**  |
 |------------------------------|-------------|
 | Markdown TOC                 | AlanWalk    |
 
 
-### For Complete Beginners
+## 🎓 For Complete Beginners
 
-If you're new to coding, the most important first step is to develop a logical approach. This foundation will make learning any programming language much easier.
+If you're new to coding, your first step is to develop a logical approach. Here are some great beginner resources:
 
-**Recommended Resources:**
-- **[Scratch](https://scratch.mit.edu/)**: A beginner-friendly platform to help you understand the basics of programming logic through visual, interactive projects. Perfect for building foundational skills before diving into text-based coding languages.
-- **[Scratch from CS50](https://www.youtube.com/watch?v=3LPJfIKxwWc&list=PLhQjrBD2T381WAHyx1pq-sBfykqMBI7V4&index=1)**: A great introduction to programming logic using Scratch, part of Harvard's CS50 course. Ideal for beginners to start thinking like a programmer with visual, block-based coding.
+- **[Scratch](https://scratch.mit.edu/)**: Visual projects to help you understand programming logic.
+- **[CS50 Scratch Tutorial](https://www.youtube.com/watch?v=3LPJfIKxwWc&list=PLhQjrBD2T381WAHyx1pq-sBfykqMBI7V4)**: Introduction to programming logic using Scratch.
 
 
-#### C language
 
-Since you’ll start with the C language, the following resources will be invaluable as you progress through your projects:
-- **[Learn-C.org: Interactive C Tutorial](http://www.learn-c.org/)**
-- **[The C Programming Language by Brian W. Kernighan and Dennis M. Ritchie](https://en.wikipedia.org/wiki/The_C_Programming_Language)**
-- **[TutorialsPoint: C Programming Tutorial](https://www.tutorialspoint.com/cprogramming/index.htm)**
-- **[GeeksforGeeks: C Programming Language](https://www.geeksforgeeks.org/c-programming-language/)**
+## 🔧 C Language Resources
 
+Since you’ll start with the C language, the following resources will be invaluable:
+
+- **[Learn-C.org: Interactive C Tutorial](http://www.learn-c.org/)**  
+- **[The C Programming Language by Kernighan & Ritchie](https://en.wikipedia.org/wiki/The_C_Programming_Language)**  
+- **[TutorialsPoint: C Programming Tutorial](https://www.tutorialspoint.com/cprogramming/index.htm)**  
+- **[GeeksforGeeks: C Programming Language](https://www.geeksforgeeks.org/c-programming-language/)**  
 - **[CS50 YouTube Playlist](https://www.youtube.com/playlist?list=PLhQjrBD2T381WAHyx1pq-sBfykqMBI7V4)**
 
 
-### 📺 YouTube Channels to Follow
+## 📺 YouTube Channels to Follow
 
 | Channel | Description |
 |---------|-------------|
-| [CodeVault](https://www.youtube.com/c/CodeVault) | A channel focused on explaining advanced programming concepts and algorithms, especially useful for C and C++ learners. |
-| [freeCodeCamp](https://www.youtube.com/@freecodecamp) | Offers a wide range of tutorials on programming, web development, and more, perfect for learners of all levels. |
-| [Learn Coding](https://www.youtube.com/@LearnCodingOfficial) | Provides clear and concise tutorials on programming, focusing on beginner-friendly content across multiple languages. |
-| [BroCode](https://www.youtube.com/@BroCodez) | Offers practical coding tutorials with a fun and engaging teaching style, covering multiple programming languages. |
-| [makigas](https://www.youtube.com/@makigas) | A great resource for **Spanish speakers**, covering a variety of programming topics, including web development and software engineering. |
-| [mouredev](https://www.youtube.com/@mouredev) | An excellent channel for **Spanish speakers**, focusing on mobile app development, especially using Flutter and Swift. |
-| [midulive](https://www.youtube.com/@midulive) | A popular channel in the **Spanish-speaking community**, offering live coding sessions and in-depth programming tutorials. |
-
-
-**Header files**
-
-- **[Header Files in C](https://medium.com/@prem112/header-files-in-c-e306e685c148)**
-  
-**Makefile**
-
-- **[Makefile Tutor](https://github.com/clemedon/Makefile_tutor)**
-
-
-### Final Checklist Before Submitting Your 42 Project
-
-### Brief Explanation:
-Before submitting your project at 42, it's crucial to ensure that all aspects of your work meet the required standards. This checklist will help you verify that your project is ready for submission by covering key areas such as code quality, file management, and expected outputs.
-
-### Checklist:
-
-1. **Norminette Compliance**
-   - Ensure your code passes the Norminette checks. Run `norminette` on all source and header files to confirm there are no style violations.
-
-2. **No Hidden Files**
-   - Remove any hidden files or directories like `.DS_Store`, `a.out`, `.vscode`, or any others that are not permitted. These should not be included in your submission.
-
-3. **Memory Leaks**
-   - Use tools like `valgrind` to check for memory leaks. Your program should not have any memory leaks unless explicitly permitted by the project guidelines.
-
-4. **No Global Variables**
-   - Verify that no global variables are used in your project unless explicitly allowed by the project's requirements.
-
-5. **Expected Output**
-   - Test your program thoroughly to ensure it produces the expected output for all required cases, including edge cases.
-
-6. **Makefile**
-   - Confirm that your Makefile is correctly implemented with all necessary rules (`all`, `clean`, `fclean`, `re`, etc.). It should compile your program without errors or warnings.
-
-7. **Header File**
-   - Check that your header file(s) are complete and correctly structured, with all function prototypes, macros, and necessary includes.
-
-By following this checklist, you can be confident that your project is in line with the expectations and standards of 42, increasing your chances of a successful submission.
-
-
-### List of Useful Resources
-
-- **[Free Programming Books](https://github.com/EbookFoundation/free-programming-books)**
-- **[Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)**
-- **[Guía Entrevistas de Programación](https://github.com/DevCaress/guia-entrevistas-de-programacion)**
-- **[Best Websites a Programmer Should Visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)**
-- **[Interactive Tutorials](https://github.com/ronreiter/interactive-tutorials)**
-- **[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)**
-- **[Coding Interview University](https://github.com/jwasham/coding-interview-university)**
+| [CodeVault](https://www.youtube.com/c/CodeVault) | Advanced programming concepts and algorithms for C/C++. |
+| [freeCodeCamp](https://www.youtube.com/@freecodecamp) | Comprehensive tutorials for programming and web development. |
+| [BroCode](https://www.youtube.com/@BroCodez) | Fun and practical coding tutorials across multiple languages. |
+| [makigas](https://www.youtube.com/@makigas) | Programming tutorials in **Spanish**, covering web development and more. |
+| [mouredev](https://www.youtube.com/@mouredev) | **Spanish** channel focusing on mobile app development. |
+| [midulive](https://www.youtube.com/@midulive) | **Spanish-speaking** community with live coding sessions. |
 
 
 
+## 🛠️ Useful Project Links
+
+| Resource | Description |
+|----------|-------------|
+| [Find Peers](https://find-peers.codam.nl/) | Struggling to find peers? Use this link to connect with others. |
+| [Header Files in C](https://medium.com/@prem112/header-files-in-c-e306e685c148) | Explanation of header files in C. |
+| [Makefile Tutor](https://github.com/clemedon/Makefile_tutor) | A comprehensive guide to Makefiles. |
 
 
 
+## ✅ Final Checklist Before Submitting Your 42 Project
+
+Before submitting your project at 42, it's crucial to ensure all aspects meet the required standards. Here's a checklist:
+
+1. **Norminette Compliance**  
+   Run `norminette` on all source and header files to ensure style compliance.
+
+2. **No Hidden Files**  
+   Remove hidden files like `.DS_Store`, `a.out`, or `.vscode`.
+
+3. **Memory Leaks**  
+   Use `valgrind` to check for memory leaks.
+
+4. **No Global Variables**  
+   Verify no global variables are used unless explicitly allowed.
+
+5. **Expected Output**  
+   Test your program to ensure it outputs correctly for all required and edge cases.
+
+6. **Makefile**  
+   Ensure your Makefile has all necessary rules (`all`, `clean`, `fclean`, `re`) and compiles without errors.
+
+7. **Header Files**  
+   Check your header file for correct function prototypes, macros, and includes.
 
 
+## 🌐 Useful Resources
+
+- **[Free Programming Books](https://github.com/EbookFoundation/free-programming-books)**  
+- **[Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)**  
+- **[Guía Entrevistas de Programación](https://github.com/DevCaress/guia-entrevistas-de-programacion)**  
+- **[Best Websites a Programmer Should Visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)**  
+- **[Interactive Tutorials](https://github.com/ronreiter/interactive-tutorials)**  
+- **[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)**  
+- **[Coding Interview University](https://github.com/jwasham/coding-interview-university)**  
 
 ---
