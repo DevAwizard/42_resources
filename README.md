@@ -56,8 +56,6 @@ Use the **Find Peers** tool to connect with other students at 42 School:
 
 🔗 [Find Peers](https://find-peers.codam.nl/)
 
-
-
 ### 👀 Recommended Tools
 
 | Tool | Description |
@@ -149,7 +147,6 @@ This way, the **W3Schools** resource is neatly integrated into the list with the
 |----------|-------------|
 | [Header Files in C](https://medium.com/@prem112/header-files-in-c-e306e685c148) | Explanation of header files in C. |
 | [Makefile Tutor](https://github.com/clemedon/Makefile_tutor) | A comprehensive guide to Makefiles. |
-
 
 
 ### ✅ Final Checklist Before Submitting Your 42 Project
