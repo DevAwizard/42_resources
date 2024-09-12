@@ -120,15 +120,16 @@ If you're new to coding, your first step is to develop a logical approach. Here 
 
 
 ### 🔧 C Language Resources
-
 Since you’ll start with the C language, the following resources will be invaluable:
 
 - **[Learn-C.org: Interactive C Tutorial](http://www.learn-c.org/)**  
 - **[The C Programming Language by Kernighan & Ritchie](https://en.wikipedia.org/wiki/The_C_Programming_Language)**  
 - **[TutorialsPoint: C Programming Tutorial](https://www.tutorialspoint.com/cprogramming/index.htm)**  
 - **[GeeksforGeeks: C Programming Language](https://www.geeksforgeeks.org/c-programming-language/)**  
-- **[CS50 YouTube Playlist](https://www.youtube.com/playlist?list=PLhQjrBD2T381WAHyx1pq-sBfykqMBI7V4)**
+- **[CS50 YouTube Playlist](https://www.youtube.com/playlist?list=PLhQjrBD2T381WAHyx1pq-sBfykqMBI7V4)**  
+- **[W3Schools: C Programming](https://www.w3schools.com/c/index.php)**
 
+This way, the **W3Schools** resource is neatly integrated into the list with the other key C language resources.
 
 ### 📺 YouTube Channels to Follow
 
