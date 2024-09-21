@@ -10,11 +10,11 @@ Welcome to the **42 Resources** repository! This is the collection of resources 
    - [💻 Setting Up Your Workspace Environment](#-setting-up-your-workspace-environment)
    - [🤝 Peer Collaboration](#-peer-collaboration)
 3. [👀 Recommended Tools](#-recommended-tools)
-4. [🖥️ Recommended Visual Studio Code Extensions](#-recommended-visual-studio-code-extensions)
+4. [🖥️ Recommended Visual Studio Code Extensions](#recommended-visual-studio-code-extensions)
 5. [🎓 For Complete Beginners](#-for-complete-beginners)
 6. [🔧 C Language Resources](#-c-language-resources)
 7. [📺 YouTube Channels to Follow](#-youtube-channels-to-follow)
-8. [🧰 Developer Essentials Toolkit](#developer-essentials-toolkit)
+8. [🧰 Developer Essentials Toolkit](#-developer-essentials-toolkit)
 9. [✅ Final Checklist Before Submitting Your 42 Project](#-final-checklist-before-submitting-your-42-project)
 10. [🌐 Useful Resources](#-useful-resources)
 
@@ -68,7 +68,7 @@ Use the **Find Peers** tool to connect with other students at 42 School:
 | [gdbgui](https://github.com/cs01/gdbgui/) | Browser-based GUI for debugging your programs with GDB. |
 
 
-### 🖥️ Recommended Visual Studio Code Extensions
+### 💻Recommended Visual Studio Code Extensions
 
 **For 42 Projects**
 
