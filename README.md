@@ -142,7 +142,7 @@ This way, the **W3Schools** resource is neatly integrated into the list with the
 
 
 
-### 🛠️ Useful Project Links
+### 🧰 Developer Essentials Toolkit
 
 #### 📄 Header Files
 
