@@ -14,10 +14,9 @@ Welcome to the **42 Resources** repository! This is the collection of resources 
 5. [🎓 For Complete Beginners](#-for-complete-beginners)
 6. [🔧 C Language Resources](#-c-language-resources)
 7. [📺 YouTube Channels to Follow](#-youtube-channels-to-follow)
-8. [🛠️ Useful Project Links](#️-useful-project-links)
+8. [🧰 Developer Essentials Toolkit](#developer-essentials-toolkit)  <!-- Fixed the extra character in this link -->
 9. [✅ Final Checklist Before Submitting Your 42 Project](#-final-checklist-before-submitting-your-42-project)
 10. [🌐 Useful Resources](#-useful-resources)
-
 
 ### 🎯 Purpose
 
@@ -139,7 +138,6 @@ This way, the **W3Schools** resource is neatly integrated into the list with the
 | [makigas](https://www.youtube.com/@makigas) | Programming tutorials in **Spanish**, covering web development and more. |
 | [mouredev](https://www.youtube.com/@mouredev) | **Spanish** channel focusing on mobile app development. |
 | [midulive](https://www.youtube.com/@midulive) | **Spanish-speaking** community with live coding sessions. |
-
 
 
 ### 🧰 Developer Essentials Toolkit
