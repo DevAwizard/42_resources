@@ -141,12 +141,21 @@ This way, the **W3Schools** resource is neatly integrated into the list with the
 | [midulive](https://www.youtube.com/@midulive) | **Spanish-speaking** community with live coding sessions. |
 
 
+
 ### 🛠️ Useful Project Links
 
-| Resource | Description |
-|----------|-------------|
-| [Header Files in C](https://medium.com/@prem112/header-files-in-c-e306e685c148) | Explanation of header files in C. |
-| [Makefile Tutor](https://github.com/clemedon/Makefile_tutor) | A comprehensive guide to Makefiles. |
+#### 📄 Header Files
+
+📌 **[Header Files in C](https://medium.com/@prem112/header-files-in-c-e306e685c148)**  
+A great guide to understanding and using header files effectively in C.
+
+#### 📝 Makefile 
+
+📌 **[Makefile Tutor](https://github.com/clemedon/Makefile_tutor)**  
+This tutorial will help you master the art of creating efficient and error-free Makefiles for your projects.
+
+#### 💡 **Want to spice up your program compilation? 🎨**  
+If you'd like to display a colorful ASCII art title when compiling your program, check out this [tool](https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20).
 
 
 ### ✅ Final Checklist Before Submitting Your 42 Project
