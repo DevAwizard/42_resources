@@ -14,7 +14,7 @@ Welcome to the **42 Resources** repository! This is the collection of resources 
 5. [🎓 For Complete Beginners](#-for-complete-beginners)
 6. [🔧 C Language Resources](#-c-language-resources)
 7. [📺 YouTube Channels to Follow](#-youtube-channels-to-follow)
-8. [🧰 Developer Essentials Toolkit](#developer-essentials-toolkit)  <!-- Fixed the extra character in this link -->
+8. [🧰 Developer Essentials Toolkit](#developer-essentials-toolkit)
 9. [✅ Final Checklist Before Submitting Your 42 Project](#-final-checklist-before-submitting-your-42-project)
 10. [🌐 Useful Resources](#-useful-resources)
 
